@@ -83,3 +83,4 @@
 ```
 ## Images in Gemini
 [30_storyboard](https://gemini.google.com/app/7a21b8a3a4416304) : Images
+[30_storyboard](https://github.com/Hansol1004/toylearn_AI_multimedias/blob/main/quests/30_storyboard.wav) : Sounds
