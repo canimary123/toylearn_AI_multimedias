@@ -78,6 +78,6 @@
 
 ```
 ## 등장인물 & 배경
-[캐릭터A](https://labs.google/fx/tools/whisk/share/2b0uu3t6s0000) : dog
-[캐릭터B](https://labs.google/fx/tools/whisk/share/7th0pk4kt0000) : cat
-[배경](https://labs.google/fx/tools/whisk/share/4a3upb3h00000) : background
+- [캐릭터A](https://labs.google/fx/tools/whisk/share/2b0uu3t6s0000) : dog
+- [캐릭터B](https://labs.google/fx/tools/whisk/share/7th0pk4kt0000) : cat
+- [배경](https://labs.google/fx/tools/whisk/share/4a3upb3h00000) : background
